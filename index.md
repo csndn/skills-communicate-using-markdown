@@ -9,3 +9,10 @@
 ```python
 print("Hello, Universe!")
 ```
+
+## Here is a task list
+- [ ] Learn what Markdown is
+- [ ] Learn how to add headings using markdown
+- [ ] Learn how to add an image to .md file
+- [ ] Learn how to add code snippets to .md file
+- [ ] Learn how to create task list
